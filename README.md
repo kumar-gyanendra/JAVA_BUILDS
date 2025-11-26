@@ -1,4 +1,4 @@
-# JAVA_BUILDS
+# ♨️ JAVA_BUILDS
 
 A collection of Java programs, exercises, experiments, and daily builds created to improve coding skills, explore new concepts, and develop practical tools.
 
